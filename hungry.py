@@ -1,4 +1,4 @@
-hungry=input("are you ok? ")
+hungry=input("are you alright? ")
 if hungry=="yes":
     print("ok cool")
 else :
